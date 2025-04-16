@@ -12,7 +12,12 @@ load_dotenv()
 st.set_page_config(page_title="Movie Recommender", layout="wide")
 
 # Fetch TMDB API Key from environment variable
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+if "api" in st.secrets:
+    TMDB_API_KEY = st.secrets["api"]["tmdb_key"]  # Streamlit Cloud
+else:
+    from dotenv import load_dotenv
+    load_dotenv()
+    TMDB_API_KEY = os.getenv("TMDB_API_KEY")  # Local .env
 
 # Load data
 movies = pd.read_csv('data/tmdb_5000_movies.csv')
