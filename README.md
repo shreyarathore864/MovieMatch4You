@@ -29,7 +29,7 @@ Release Year
 ![Screenshot 2025-04-17 191053](https://github.com/user-attachments/assets/ee74ee22-5e3e-4223-8656-1e83ecddc911)
 ![Screenshot 2025-04-17 191111](https://github.com/user-attachments/assets/31b63a78-335a-4863-a046-d1083a4beeca)
 ![Screenshot 2025-04-17 191125](https://github.com/user-attachments/assets/ed667e5b-1866-440a-abe6-5b26c93672a2)
-![App Preview](assets/app_preview.png)
+
 
 ---
 ⚙️ Setup Instructions
