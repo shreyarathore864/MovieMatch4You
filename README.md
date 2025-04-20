@@ -22,7 +22,6 @@ Release Year
 
 ---
 ![Screenshot 2025-04-17 190531](https://github.com/user-attachments/assets/c335f922-7221-4431-9b5b-a34a819b2554)
-![Screenshot 2025-04-17 190608](https://github.com/user-attachments/assets/4e53f13b-548e-4fb6-8694-03594d7d67be)
 ![Screenshot 2025-04-17 190918](https://github.com/user-attachments/assets/d685c31c-23cd-4df0-ada4-e88d96c7bc2c)
 ![Screenshot 2025-04-17 191013](https://github.com/user-attachments/assets/7a722dd3-93f1-40d7-afc9-3c42bd8c668c)
 ![Screenshot 2025-04-17 191023](https://github.com/user-attachments/assets/6ac00041-023f-4e87-8606-0b6cf0e79611)
