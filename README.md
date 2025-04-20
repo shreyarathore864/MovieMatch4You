@@ -32,31 +32,18 @@ Release Year
 ![App Preview](assets/app_preview.png)
 
 ---
-###⚙️ Setup Instructions
+⚙️ Setup Instructions
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/shreyarathore864/MovieMatch4You.git
 cd MovieMatch4You
 Install the required dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Create a .env file in your project root:
 
-bash
-Copy
-Edit
 TMDB_API_KEY=your_tmdb_api_key_here
 Run the app locally:
 
-bash
-Copy
-Edit
 streamlit run app.py
 🌍 Live Demo
 👉 https://moviematch4you.streamlit.app
